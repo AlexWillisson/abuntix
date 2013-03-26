@@ -1,5 +1,0 @@
-musync is a derivative of bakim, modified to better handle music
-files. The main changes are the directory tree and permissions are not
-preserved. Checking for if files are identical may be different as well.
-
-contact atw@mit.edu for bug reports

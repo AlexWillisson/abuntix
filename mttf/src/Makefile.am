@@ -1,4 +1,5 @@
-bin_PROGRAMS = mttf-add mttf-queue
+bin_PROGRAMS = mttf-add
+libexec_PROGRAMS = mttf-queue
 mttf_add_SOURCES = mttf-add.c json.y json.h
 mttf_queue_SOURCES = mttf-queue.c json.y json.h
 
