@@ -3,3 +3,6 @@ of Ubuntu Desktop 12.10.
 
 bakim is a script for backing up files which are expected to never
 change (music files, videos, disk images, etc.)
+
+Some day it'll get updated. But not today, this line only exists so
+that there will be a change to try git-appraise on.
